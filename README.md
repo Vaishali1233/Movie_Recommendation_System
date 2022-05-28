@@ -32,10 +32,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 6. $ git push heroku master
 7. Thats it!
 
-## Similarity Score : 
-
-   How does it decide which item is most similar to the item user likes? Here come the similarity scores.
-   
+## Similarity Score :    
    It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
    
 ## How Cosine Similarity works?
