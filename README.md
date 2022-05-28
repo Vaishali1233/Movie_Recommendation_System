@@ -5,7 +5,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-## Wroking project screenshot 
+## Working project screenshot 
 ![image](https://user-images.githubusercontent.com/86144277/170823287-6ba648cc-0167-46b0-a9fe-a5325a8356c8.png)
 
 
