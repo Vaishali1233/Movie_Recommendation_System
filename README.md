@@ -5,10 +5,6 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-> ## SEE LIVE DEMO - 
-
-Source Code: (https://github.com/Vaishali1233/Recommendation_system)
-
 ## Wroking project screenshot 
 ![image](https://user-images.githubusercontent.com/86144277/170823287-6ba648cc-0167-46b0-a9fe-a5325a8356c8.png)
 
@@ -27,7 +23,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 5. Go to your browser and type (http://localhost:5000/) in the address bar.
 6. Thats it!
 
-## How to deply in Heroku: 
+## How to deploy in Heroku: 
 1. $ heroku login
 2. $ heroku git:clone -a NAME_OF_APP 
 3. $ heroku git:clone -a NAME_OF_APP 
