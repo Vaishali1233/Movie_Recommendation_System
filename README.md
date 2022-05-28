@@ -5,7 +5,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-> ## SEE LIVE DEMO - https://recommendationformoviestoyou.herokuapp.com/
+> ## SEE LIVE DEMO - 
 
 Source Code: (https://github.com/Vaishali1233/Recommendation_system)
 
