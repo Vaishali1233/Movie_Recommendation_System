@@ -35,7 +35,7 @@ function recommendcard(e){
 function load_details(my_api_key,title){
   $.ajax({
     type: 'GET',
-    url:'https://developers.themoviedb.org/3/movie/550?api_key=69d8de85c5a25979d189cf20e7983c45'+my_api_key+'&query='+title,
+    url:'https://developers.themoviedb.org/3/movie/550?api_key='+my_api_key+'&query='+title,
 
     success: function(movie){
       if(movie.results.length<1){
@@ -93,7 +93,7 @@ function movie_recs(movie_title,movie_id,my_api_key){
 function get_movie_details(movie_id,my_api_key,arr,movie_title) {
   $.ajax({
     type:'GET',
-    url:'https://developers.themoviedb.org/3/movies/get-movie-details'+movie_id+'?api_key='+my_api_key,
+    url:'https://developers.themoviedb.org/3/movies/get-movie-details/'+movie_id+'?api_key='+my_api_key,
     success: function(movie_details){
       show_details(movie_details,arr,movie_title,my_api_key,movie_id);
     },
